@@ -1,6 +1,6 @@
 module.exports = {
-  name: "theme machine", // optional, falls back to object key
-  description: "Theme Machine websites",
+  name: "Saga11", // optional, falls back to object key
+  description: "Saga11 sites",
   options: {
     frequency: 60 * 23, // (in minutes), 23 hours
   },
