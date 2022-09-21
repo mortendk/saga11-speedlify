@@ -19,5 +19,6 @@ module.exports = {
     "https://www.gatsbyjs.com",
     "https://jekyllrb.com",
     "https://nuxtjs.org",
+    "https://astro.build",
   ],
 };
