@@ -20,5 +20,6 @@ module.exports = {
     "https://jekyllrb.com",
     "https://nuxtjs.org",
     "https://astro.build",
+    "https://www.11ty.dev",
   ],
 };
