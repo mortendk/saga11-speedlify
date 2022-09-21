@@ -1,6 +1,6 @@
 module.exports = {
   name: "CMS", // optional, falls back to object key
-  description: "CMS speed",
+  description: "CMS AwesomeSpeed",
   options: {
     frequency: 60 * 23, // (in minutes), 23 hours
   },
@@ -12,7 +12,6 @@ module.exports = {
     "https://umbraco.com",
     "https://typo3.org",
     "https://www.netlifycms.org",
-    "https://www.siteleaf.com",
     "https://saga11.dev",
     "https://nextjs.org",
     "https://gohugo.io",
